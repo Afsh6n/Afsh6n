@@ -57,16 +57,25 @@ const afshin = {
 
 ---
 
-## 👥 My Community
+## 👥 My Communities
 
 <div align="center">
 
-| Community      | Members |
-| -------------- | ------- |
-| 🎯 DevYara     | 10K+    |
-| 📚 ArchiveDevs | 4K+     |
-| 💬 TopicsDev   | 3K+     |
-| ❓ ChatDevGp    | 2K+     |
+<a href="https://t.me/DevYara">
+  <img src="https://img.shields.io/badge/DevYara-10K%2B%20Members-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+<a href="https://t.me/ArchiveDevs">
+  <img src="https://img.shields.io/badge/ArchiveDevs-4K%2B%20Members-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+<a href="https://t.me/TopicsDev">
+  <img src="https://img.shields.io/badge/TopicsDev-3K%2B%20Members-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+<a href="https://t.me/ChatDevGp">
+  <img src="https://img.shields.io/badge/ChatDevGp-2K%2B%20Members-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
 
 </div>
 
