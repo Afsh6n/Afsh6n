@@ -85,7 +85,7 @@ const afshin = {
 
 <div align="center">
 
-<a href="https://afs6n.ir">
+<a href="https://afsh6n.ir">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
